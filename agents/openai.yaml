@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国历年省市区县地图"
+  short_description: "基于本地课程底图绘制历年省市县填色、散点和栅格地图，支持南海小图与长版"
+  default_prompt: "使用 $china-historical-maps 核对我的数据年份、行政区代码与底图，绘制中国专题地图并输出图片、代码和匹配检查。"
